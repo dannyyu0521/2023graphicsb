@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514140588 source:c:\users\user\desktop\week02-2_glut_many_vertex\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1676567647 c:\users\user\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1676567647 c:\users\user\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
